@@ -3,6 +3,7 @@
         {
             "id": 1,
             "userid": 1,
+            "username" : "famouz13",
             "date": "2019-07-04",
             "text": "Post 1",
             "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
@@ -10,6 +11,7 @@
         {
             "id": 1,
             "userid": 1,
+            "username" : "famouz13",
             "date": "2019-07-04",
             "text": "Post 1",
             "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
@@ -17,6 +19,7 @@
         {
             "id": 1,
             "userid": 1,
+            "username" : "famouz13",
             "date": "2019-07-04",
             "text": "Post 1",
             "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
@@ -24,6 +27,7 @@
         {
             "id": 1,
             "userid": 1,
+            "username" : "famouz13",
             "date": "2019-07-04",
             "text": "Post 1",
             "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
