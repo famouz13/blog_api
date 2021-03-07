@@ -5,7 +5,7 @@
             "userid": 1,
             "username" : "famouz13",
             "date": "2019-07-04",
-            "text": "Post 1",
+            "text": "en: Dear participants of the AITU iCode Olympiad, At 10:00 am, Nur-Sultan time, the second stage of the Olympiad will be held.",
             "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
         },
         {
@@ -13,7 +13,7 @@
             "userid": 1,
             "username" : "famouz13",
             "date": "2019-07-04",
-            "text": "Post 1",
+            "text": "Dear students, We are pleased to invite you to a guest online lecture from PWC.⠀Date: March 4 Time: 16: 00 Topic: What to expect from Data Analytics in the Consulting World?⠀ 📲Please register using the link in the description.",
             "imageUrl": "https://habrastorage.org/webt/21/_h/u6/21_hu6mi0r6toeblz3tnufvlipo.jpeg"
         },
         {
@@ -21,7 +21,7 @@
             "userid": 1,
             "username" : "famouz13",
             "date": "2019-07-04",
-            "text": "Post 1",
+            "text": "AITU move: Wining the city draughts tournament.On February 21, a city online draughts tournament was held among the students of Nur-Sultan universities dedicated to the 175th anniversary of Zhambyl Zhabayev.👥The AITU national team consisting of Adilkhan Meiram BD-2005 (MS RK), Zaytmetova Raushanbek CS-2003 and Manakayeva Adelia BD-2005 took the first place.🎉Astana IT Univresity congratulates the entire team and wishes them success in their future endeavors!",
             "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
         },
         {
@@ -29,7 +29,55 @@
             "userid": 1,
             "username" : "famouz13",
             "date": "2019-07-04",
-            "text": "Post 1",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod earum vel illum quibusdam nisi perferendis est aliquam. Debitis pariatur deleniti, natus sequi odit porro eveniet tenetur vitae quisquam nulla cum reprehenderit explicabo doloribus animi omnis neque placeat soluta eum. Labore quaerat debitis quas dolores suscipit quisquam quasi, iure ducimus laborum?",
+            "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
+        },
+        {
+            "id": 5,
+            "userid": 1,
+            "username" : "famouz13",
+            "date": "2019-07-04",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod earum vel illum quibusdam nisi perferendis est aliquam. Debitis pariatur deleniti, natus sequi odit porro eveniet tenetur vitae quisquam nulla cum reprehenderit explicabo doloribus animi omnis neque placeat soluta eum. Labore quaerat debitis quas dolores suscipit quisquam quasi, iure ducimus laborum?",
+            "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
+        },
+        {
+            "id": 6,
+            "userid": 1,
+            "username" : "famouz13",
+            "date": "2019-07-04",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod earum vel illum quibusdam nisi perferendis est aliquam. Debitis pariatur deleniti, natus sequi odit porro eveniet tenetur vitae quisquam nulla cum reprehenderit explicabo doloribus animi omnis neque placeat soluta eum. Labore quaerat debitis quas dolores suscipit quisquam quasi, iure ducimus laborum?",
+            "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
+        }
+        ,{
+            "id": 7,
+            "userid": 1,
+            "username" : "famouz13",
+            "date": "2019-07-04",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod earum vel illum quibusdam nisi perferendis est aliquam. Debitis pariatur deleniti, natus sequi odit porro eveniet tenetur vitae quisquam nulla cum reprehenderit explicabo doloribus animi omnis neque placeat soluta eum. Labore quaerat debitis quas dolores suscipit quisquam quasi, iure ducimus laborum?",
+            "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
+        }
+        ,{
+            "id": 8,
+            "userid": 1,
+            "username" : "famouz13",
+            "date": "2019-07-04",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod earum vel illum quibusdam nisi perferendis est aliquam. Debitis pariatur deleniti, natus sequi odit porro eveniet tenetur vitae quisquam nulla cum reprehenderit explicabo doloribus animi omnis neque placeat soluta eum. Labore quaerat debitis quas dolores suscipit quisquam quasi, iure ducimus laborum?",
+            "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
+        },
+        {
+            "id": 9,
+            "userid": 1,
+            "username" : "famouz13",
+            "date": "2019-07-04",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod earum vel illum quibusdam nisi perferendis est aliquam. Debitis pariatur deleniti, natus sequi odit porro eveniet tenetur vitae quisquam nulla cum reprehenderit explicabo doloribus animi omnis neque placeat soluta eum. Labore quaerat debitis quas dolores suscipit quisquam quasi, iure ducimus laborum?",
+            "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
+        },
+        {
+            "id": 10,
+            "userid": 1,
+            "username" : "famouz13",
+            "date": "2019-07-04",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod earum vel illum quibusdam nisi perferendis est aliquam. Debitis pariatur deleniti, natus sequi odit porro eveniet tenetur vitae quisquam nulla cum reprehenderit explicabo doloribus animi omnis neque placeat soluta eum. Labore quaerat debitis quas dolores suscipit quisquam quasi, iure ducimus laborum?",
             "imageUrl": "https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg"
         }
     ],
