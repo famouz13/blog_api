@@ -87,6 +87,12 @@
             "email": "xxxdarkxxx007@gmail.com",
             "login": "famouz13",
             "password": "test123@"
+        },
+        {
+            "id": 2,
+            "email": "xxxdarkxxx007@gmail.com",
+            "login": "famouz13",
+            "password": "test123@"
         }
     ]
 }
